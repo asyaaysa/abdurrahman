@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+ 
+header {
+    background-color: green;
+    height: 90px;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.link-header {
+    position:relative;
+    top: 7px;
+    text-decoration: none;
+}
+ 
+.link-header:hover {
+    position:relative;
+    top: 7px;
+    background-color: lightgreen;
+    text-decoration: none;
+    transition: 5s linear;
+}
+ 
+.link-nav {
+    padding-left: 270px;
+    text-decoration: none;
+    display: inline-block;
+}
+ 
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: green;
+    text-shadow: 5px 5px 3px gray;
+}
+ 
+.red {
+    width: 700px;
+    margin-left: 300px;
+}
+ 
+.social {
+    padding: 7px;
+    margin-left: 230px;
+}
+ 
+.link-text {
+    text-decoration: none;
+}
